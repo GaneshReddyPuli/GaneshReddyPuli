@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaneshReddyPuli](https://github.com/GaneshReddyPuli)
 
-- 📝 I regularly write articles on [https://medium.com/@puliganeshreddy11](https://medium.com/@puliganeshreddy11)
+- 📝 Articles that I wrote are available on [https://medium.com/@puliganeshreddy11](https://medium.com/@puliganeshreddy11)
 
 - 💬 Ask me about **Machine Learning, Python, Math behind ML algorithms, NLP**
 
